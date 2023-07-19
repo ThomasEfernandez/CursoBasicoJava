@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Thomas Ezequiel Fenández
+Main-Class: Bienvenida
+X-COMMENT: Curso Java
